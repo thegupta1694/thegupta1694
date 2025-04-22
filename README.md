@@ -6,7 +6,7 @@
 
 ## 💫 About Me
 
-🎓 Pursuing Computer Science Engineering at PES University with 8.63 CGPA  
+🎓 Pursuing Computer Science Engineering at PES University
 🧠 Passionate about Machine Learning, AI, and Full-Stack Development  
 🔬 Currently researching video summarization and active speaker diarization at ITTIAM  
 📊 Experience with data analysis, ML frameworks, and RAG Chatbots  
