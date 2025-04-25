@@ -1,13 +1,12 @@
 # 👋 Hi there, I'm Arya Gupta!
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=2F81F7&center=true&vCenter=true&width=600&lines=Computer+Science+Engineering+Student;Research+Intern+at+ITTIAM;AI+and+Machine+Learning+Enthusiast;Full-Stack+Developer;Always+Learning..."/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=2F81F7&center=true&vCenter=true&width=600&lines=Computer+Science+Engineering+Student;Research+Intern+at+ITTIAM;AI+and+Machine+Learning+Enthusiast;Full-Stack+Developer;Always+Learning...;GenAI+Developer"/>
 </div>
 
 ## 💫 About Me
 
 🎓 Pursuing Computer Science Engineering at PES University
-
 🧠 Passionate about Machine Learning, AI, and Full-Stack Development  
 🔬 Currently researching video summarization and active speaker diarization at ITTIAM  
 📊 Experience with data analysis, ML frameworks, and RAG Chatbots  
